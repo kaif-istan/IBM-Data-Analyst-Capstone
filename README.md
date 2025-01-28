@@ -106,6 +106,14 @@ The project involves collecting and analyzing data from various sources to provi
 ## Final Presentation
    See the Findings-Report-Presentation pdf!
 
+## About the Project
+
+This project was completed as part of the IBM Data Analyst Capstone Project.
+
+### Author
+
+Md Kaif
+
 ## Acknowledgments
    IBM for the capstone project framework.
    Coursera for providing the learning platform and resources.
