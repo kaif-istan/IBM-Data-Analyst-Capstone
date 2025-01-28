@@ -1,5 +1,10 @@
 # IBM Data Analyst Capstone Project
 
+## Project Verification
+You can verify this project on Coursera using the following link:
+
+[IBM Data Analyst Capstone Project - Coursera Verification](<https://www.coursera.org/account/accomplishments/verify/P20TTSIQ5836>)
+
 ## Project Overview
 
 This project simulates a professional scenario where you work as a Data Analyst for a global IT and business consulting services firm. The objective is to analyze and identify emerging skills in the IT industry, focusing on programming languages, database technologies, and popular Integrated Development Environments (IDEs). 
