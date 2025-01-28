@@ -120,5 +120,5 @@ This project was completed as part of the IBM Data Analyst Capstone Project.
 Md Kaif
 
 ## Acknowledgments
-   IBM for the capstone project framework.
-   Coursera for providing the learning platform and resources.
+- IBM for the capstone project framework.
+- Coursera for providing the learning platform and resources.
